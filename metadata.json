@@ -1,0 +1,5 @@
+{
+  "name": "Insect Identifier",
+  "description": "An application that uses AI to identify insects and provide information about them. Search for an insect to see its photo, description, and conservation status.",
+  "requestFramePermissions": []
+}
